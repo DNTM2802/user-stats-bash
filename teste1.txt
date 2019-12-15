@@ -1,0 +1,5 @@
+guida 32 44 12 32 
+dadadada 88 23 248 91 
+outracena 100 32 53 23
+tururu 10 3 52 2  
+tatatata 13 12 44 23 

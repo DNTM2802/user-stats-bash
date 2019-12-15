@@ -1,1 +1,2 @@
-user-stats-bash
+# Userstatsbash
+First pratical assignment SO
